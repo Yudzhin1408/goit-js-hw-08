@@ -22,4 +22,5 @@ function populateTime() {
     }
 }
 
+
  player.setCurrentTime(savedCurrentTime);
