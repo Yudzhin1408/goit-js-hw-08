@@ -20,7 +20,6 @@ function populateTime() {
     if (currentTime) {        
         savedCurrentTime = currentTime;
     }
-}
-
+};
 
  player.setCurrentTime(savedCurrentTime);
